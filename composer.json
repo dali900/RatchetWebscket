@@ -1,0 +1,26 @@
+{
+		"name": "RachetWebsocketApp",
+    "description": "Chat App with Rachet library using websockets",
+    "keywords": ["Rachet", "Websocket"],
+    "license": "MIT",
+    "type": "app",
+    "docs": "http://socketo.me/",
+    "source": "https://github.com/ratchetphp/Ratchet",
+    "authors": [
+    	{
+    	"name":"Dalibor Grujic",
+    	"email": "dalibor.gc@gmail.com",
+      /*"homepage": "http://seld.be",*/
+      "role": "Developer"
+    	}
+    ],
+
+    "require": {
+        "cboden/ratchet": "^0.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    }
+}

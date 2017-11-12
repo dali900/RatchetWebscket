@@ -1,0 +1,23 @@
+{
+  "name": "ratchet_websocket",
+  "version": "1.0.0",
+  "description": "Chat App with Rachet library using websockets",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dali900/RatchetWebscket.git"
+  },
+  "keywords": [
+    "Rachet",
+    "Websocket"
+  ],
+  "author": "Dalibor Grujic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dali900/RatchetWebscket/issues"
+  },
+  "homepage": "https://github.com/dali900/RatchetWebscket#readme"
+}
